@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sanic-org/sanic-assets/commit/79af646b7948fdfdc3b2f98d8aeedf58eba34b5b",
       "git:hexsha": "79af646b7948fdfdc3b2f98d8aeedf58eba34b5b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
