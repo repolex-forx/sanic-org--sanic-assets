@@ -1,0 +1,39 @@
+{
+  "manifest_version": "1.0",
+  "org": "sanic-org",
+  "repo": "sanic-assets",
+  "versions": [
+    {
+      "commit": "79af646b7948fdfdc3b2f98d8aeedf58eba34b5b",
+      "parsed_at": "2026-10-21T02:49:52.620151+00:00",
+      "filetree": "filetree/79af646b7948fdfdc3b2f98d8aeedf58eba34b5b.nq.gz",
+      "blobs": [
+        "blob/db54eb877c85803d6f0184f2593a42074e7360d2.nq.gz",
+        "blob/650ffcaaeedf5a188fc104d42df134696e67f3a2.nq.gz",
+        "blob/a01796d6d53290249f5db6ad68e2e76795b5e364.nq.gz",
+        "blob/5b279c61bcd61712f1c36d309feeb6a803ac6c76.nq.gz",
+        "blob/a32ca8533471eaa4ddb4b9320c56a4265d71a8e6.nq.gz",
+        "blob/0dfdff3d36fa5fd612a88ba653a6bbe5c9985f81.nq.gz",
+        "blob/0d3635d11ccf92db339c433a881c0726a245696b.nq.gz",
+        "blob/8be21a83e1b9102e96dfba1145bb6101eb908445.nq.gz",
+        "blob/17d4adaee0a388bd6b02c75f34f0d1ac8a5b0c0b.nq.gz",
+        "blob/f56cc941aa651de69bbf12e78dfcd9889c72dd8b.nq.gz",
+        "blob/5d54418f2ed5c5f2c9784430421870355ecbe476.nq.gz",
+        "blob/f95ec2d62ba79ce962e62d6353120b3ecd88cf6a.nq.gz",
+        "blob/709a0bb9d89135e1394df7ae7f4cc68401135886.nq.gz",
+        "blob/cd566ecbf9943550b0483593e67296005aeb793e.nq.gz",
+        "blob/a1b5ad95f993ace8b3dce46cec65a16cd3bd5751.nq.gz",
+        "blob/32195bfa1378be85364143eaf2a779de031c1f8f.nq.gz",
+        "blob/d98c7f44fb125fb88618139e3b4a8180dfce0455.nq.gz",
+        "blob/8a8f88083820aa72e8c21174fa022d2cf6392847.nq.gz",
+        "blob/e9e040cf095b0e67bfe54ff0127d7a4ac56d43fb.nq.gz",
+        "blob/0012b049a28e1bee05e3b091398d35ea8664e12c.nq.gz",
+        "blob/962ef91edaa1a07e9a1549b2915bf990089c38ca.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
